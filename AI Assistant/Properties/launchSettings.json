@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AI Assistant (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AI Assistant (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
